@@ -10,9 +10,8 @@ int main()
         n--;
 
     }
-    while(pow <=100 );{
-        printf("%d", count);
-    }
+    while(pow <=100 );
+    printf("%d", count);
     return 0;
 
     

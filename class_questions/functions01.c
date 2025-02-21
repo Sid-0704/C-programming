@@ -15,11 +15,5 @@ printf("%d",b);
 
 
 
-
-
-
-
-
-
     return 0;
 }
