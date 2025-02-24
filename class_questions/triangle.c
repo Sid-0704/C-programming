@@ -21,7 +21,7 @@ int area_of_triangle(){
 
     oldarea = s *(first) * (second) *(third); 
     newarea = pow(oldarea,0.5);
-    printf("the total area of the triangle is %.2f ",newarea); 
+    printf("the total area of the triangle is %.2f",newarea); 
 
 
 
