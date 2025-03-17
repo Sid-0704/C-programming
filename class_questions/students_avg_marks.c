@@ -29,7 +29,7 @@ int main(){
         scanf("%d",&mark04[i]);
         printf("Enter mark of 5th subject: ");
         scanf("%d",&mark05[i]);
-        avg[i]= (mark01[i]+mark02[i]+mark03[i]+mark04[i]+mark05[i])/5.0;
+        avg[i]= (mark01[i]+mark02[i]+mark03[i]+mark04[i]+mark05[i])/5.00;
         
         i++;
 
