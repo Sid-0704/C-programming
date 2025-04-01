@@ -21,7 +21,7 @@ int main()
     avg = (float) sum/no_of_students;
     
     
-    printf("average marks of %d students = %d\n",no_of_students,avg);
+    printf("average marks of %d students = %.2f\n",no_of_students,avg);
     for(i=0;i<no_of_students;i++)
     {
         if(marks[i] < avg)
