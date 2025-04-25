@@ -3,9 +3,9 @@
 int main(){
 
     int a=10;
-    int paaa= &a;
+    int * pntr= &a;
   //  int *caa = a;
-    printf("%d\n",paaa);      
+    printf("%p\n",pntr);      
   //  printf("%d",caa);
 
 
