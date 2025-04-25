@@ -19,7 +19,7 @@ int main(){
     //for(int m = 0; m<=4; m++){
         // printf("%d\n",arr[m]);
 
-
+    
     //}
 
     int z = 0;
