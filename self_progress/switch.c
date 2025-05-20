@@ -2,7 +2,7 @@
 int main(){
     int day;
 
-    printf("Enter the day: ");
+    printf("Enter the day in integer format: ");
     scanf("%d",&day);
 
     switch (day)

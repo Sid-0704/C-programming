@@ -14,7 +14,7 @@ int main(){
 
     int num;
     printf("Enter the non negative number: ");
-    scanf("%d\n",&num);
+    scanf("%d",&num);
     
     printf("factorial of %d is %d\n", num, factorial(num));
 
